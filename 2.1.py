@@ -6,6 +6,7 @@ preCalculatedOutput = {
     "CX":2, "CY":6, "CZ":7 
 }
 
+score = 0
 
 for line in sys.stdin:
     first, second = line.split()
